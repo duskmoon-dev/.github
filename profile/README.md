@@ -5,7 +5,7 @@ This is a list of our public repositories:
 | Repository | Description | Language | Stars | Forks |
 |------------|-------------|----------|-------|-------|
 | [build-tools](https://github.com/duskmoon-dev/build-tools) | Duskmoon Development Tools | TypeScript | 0 | 0 |
-| [custom-elements](https://github.com/duskmoon-dev/custom-elements) | A collection of customizable web components built with vanilla JavaScript and Shadow DOM | TypeScript | 0 | 0 |
+| [duskmoon-elements](https://github.com/duskmoon-dev/duskmoon-elements) | A collection of customizable web components built with vanilla JavaScript and Shadow DOM | TypeScript | 0 | 0 |
 | [duskmoon-ui](https://github.com/duskmoon-dev/duskmoon-ui) | Duskmoon UI css in tailwindcss plugin | JavaScript | 0 | 0 |
 | [duskmoonui](https://github.com/duskmoon-dev/duskmoonui) | The Core of DuskmoonUI | MDX | 0 | 0 |
 | [phoenix-duskmoon-ui](https://github.com/duskmoon-dev/phoenix-duskmoon-ui) | Duskmoon UI for Phoenix Framework | Elixir | 66 | 0 |
