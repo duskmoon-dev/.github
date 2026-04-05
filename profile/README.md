@@ -6,7 +6,7 @@ This is a list of our public repositories:
 |------------|-------------|----------|-------|-------|
 | [build-tools](https://github.com/duskmoon-dev/build-tools) | Duskmoon Development Tools | TypeScript | 0 | 0 |
 | [code-engine](https://github.com/duskmoon-dev/code-engine) | No description provided. | TypeScript | 0 | 0 |
-| [design](https://github.com/duskmoon-dev/design) | No description provided. | TypeScript | 0 | 0 |
+| [design](https://github.com/duskmoon-dev/design) | The design tokens of Duskmoon UI system | TypeScript | 0 | 0 |
 | [duskmoon-elements](https://github.com/duskmoon-dev/duskmoon-elements) | A collection of customizable web components built with vanilla JavaScript and Shadow DOM | TypeScript | 0 | 0 |
 | [duskmoon-ui](https://github.com/duskmoon-dev/duskmoon-ui) | Duskmoon UI css in tailwindcss plugin | JavaScript | 0 | 0 |
 | [duskmoonui](https://github.com/duskmoon-dev/duskmoonui) | The Core of DuskmoonUI | MDX | 0 | 0 |
