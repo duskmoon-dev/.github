@@ -12,7 +12,6 @@ This is a list of our public repositories:
 | [duskmoonui](https://github.com/duskmoon-dev/duskmoonui) | The Core of DuskmoonUI | MDX | 0 | 0 |
 | [flutter-duskmoon-ui](https://github.com/duskmoon-dev/flutter-duskmoon-ui) | No description provided. | Dart | 0 | 0 |
 | [phoenix-duskmoon-ui](https://github.com/duskmoon-dev/phoenix-duskmoon-ui) | Duskmoon UI for Phoenix Framework | Elixir | 65 | 0 |
-| [web-component](https://github.com/duskmoon-dev/web-component) | No description provided. | TypeScript | 0 | 0 |
 | [yew-duskmoon-ui](https://github.com/duskmoon-dev/yew-duskmoon-ui) | Duskmoon UI Component Library. | Rust | 6 | 0 |
 
 
