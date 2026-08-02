@@ -10,6 +10,7 @@ This is a list of our public repositories:
 | [duskmoon-elements](https://github.com/duskmoon-dev/duskmoon-elements) | A collection of customizable web components built with vanilla JavaScript and Shadow DOM | TypeScript | 0 | 0 |
 | [duskmoon-react](https://github.com/duskmoon-dev/duskmoon-react) | React component library for Duskmoon design system | TypeScript | 0 | 0 |
 | [duskmoonui](https://github.com/duskmoon-dev/duskmoonui) | The Core of DuskmoonUI | MDX | 0 | 0 |
+| [emacs-duskmoon-theme](https://github.com/duskmoon-dev/emacs-duskmoon-theme) | No description provided. | Emacs Lisp | 0 | 0 |
 | [flutter-duskmoon-ui](https://github.com/duskmoon-dev/flutter-duskmoon-ui) | No description provided. | Dart | 0 | 0 |
 | [phoenix-duskmoon-ui](https://github.com/duskmoon-dev/phoenix-duskmoon-ui) | Duskmoon UI for Phoenix Framework | C | 65 | 0 |
 | [yew-duskmoon-ui](https://github.com/duskmoon-dev/yew-duskmoon-ui) | Duskmoon UI Component Library. | Rust | 6 | 0 |
