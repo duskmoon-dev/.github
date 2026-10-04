@@ -9,7 +9,7 @@ This is a list of our public repositories:
 | [design](https://github.com/duskmoon-dev/design) | The design tokens of Duskmoon UI system | TypeScript | 0 | 0 |
 | [duskmoon-elements](https://github.com/duskmoon-dev/duskmoon-elements) | A collection of customizable web components built with vanilla JavaScript and Shadow DOM | TypeScript | 0 | 0 |
 | [duskmoon-react](https://github.com/duskmoon-dev/duskmoon-react) | React component library for Duskmoon design system | TypeScript | 0 | 0 |
-| [duskmoonui](https://github.com/duskmoon-dev/duskmoonui) | The Core of DuskmoonUI | MDX | 0 | 0 |
+| [duskmoonui](https://github.com/duskmoon-dev/duskmoonui) | The Core of DuskmoonUI | TypeScript | 0 | 0 |
 | [emacs-duskmoon-theme](https://github.com/duskmoon-dev/emacs-duskmoon-theme) | No description provided. | Emacs Lisp | 0 | 0 |
 | [flutter-duskmoon-ui](https://github.com/duskmoon-dev/flutter-duskmoon-ui) | No description provided. | Dart | 0 | 0 |
 | [liquid-glass](https://github.com/duskmoon-dev/liquid-glass) | Liquid Glass UI — glassmorphism component styles and Tailwind CSS v4 plugin | CSS | 0 | 0 |
